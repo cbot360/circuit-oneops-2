@@ -1,9 +1,0 @@
-#!/bin/bash
-#fetch the cassandra service status
-service cassandra status > /dev/null
-if [ "$?" = "0" ]
-then
-  echo "{\"cassandra_status\":1}"
-else
- echo "{\"cassandra_status\":0}"
-fi

@@ -1,1 +1,0 @@
-Chef::Log.info("Keyspace replace called, temporary placeholder recipe.")

@@ -1,1 +1,0 @@
-Chef::Log.info("Configure windows cluster")

@@ -1,1 +1,0 @@
-execute "systemctl stop memcached.service"

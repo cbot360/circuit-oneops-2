@@ -1,1 +1,0 @@
-Chef::Log.info("php delete called, temporary placeholder recipe.")

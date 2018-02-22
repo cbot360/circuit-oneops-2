@@ -1,1 +1,0 @@
-Chef::Log.info("Crm delete called, temporary placeholder recipe.")

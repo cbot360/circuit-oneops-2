@@ -1,1 +1,0 @@
-execute "systemctl status mcrouter.service"

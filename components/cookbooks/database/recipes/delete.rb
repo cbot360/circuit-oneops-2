@@ -1,1 +1,0 @@
-Chef::Log.info("Database delete called, temporary placeholder recipe.")

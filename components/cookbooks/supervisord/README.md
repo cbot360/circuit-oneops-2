@@ -1,1 +1,0 @@
-Supervisord Cookbook

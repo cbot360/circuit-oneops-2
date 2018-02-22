@@ -1,1 +1,0 @@
-Chef::Log.info("Cluster update called, temporary placeholder recipe.")
