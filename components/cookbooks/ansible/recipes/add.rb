@@ -1,0 +1,5 @@
+include_recipe 'ansible::packages'
+include_recipe 'ansible::ansible_configure'
+include_recipe 'ansible::pip_install'
+include_recipe 'ansible::ansible_install'
+include_recipe 'ansible::ansible_playbook'
